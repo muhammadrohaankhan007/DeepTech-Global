@@ -1,0 +1,7 @@
+{
+  "name": "Tech Summit 2026 - Future of Innovation",
+  "description": "A high-end, futuristic landing page for Tech Summit 2026 featuring glassmorphism, animated backgrounds, and a Gemini-powered AI concierge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
